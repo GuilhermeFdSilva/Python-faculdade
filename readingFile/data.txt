@@ -1,0 +1,5 @@
+Meu primeiro arquivo txt
+
+Escrevendo no arquivo de texto!
+
+Ola, mundo!
